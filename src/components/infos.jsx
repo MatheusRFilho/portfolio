@@ -16,10 +16,10 @@ export const Infos = () => {
           Olá, meu nome é Matheus Rodrigo nasci no dia 24 de fevereiro do ano de
           2000, sou brasileiro e atualmente moro em Aparecida - São Paulo.
           <br />
-          Conheci a programação atraves do meu curso tecnico e acabei me
-          apaixonando pela area.
+          Conheci a programação através do meu curso técnico e acabei me
+          apaixonando pela área.
           <br />
-          Durante meus estudos auto-ditadas acabei por conhecer o React e posso
+          Durante meus estudos autoditadas acabei por conhecer o React e posso
           dizer que é o framework que eu mais domino.
           <br />
           Gosto muito de novos desafios para que eu possa ganhar novos
