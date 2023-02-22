@@ -1,0 +1,14 @@
+{
+  "nome": "Matheus Filho",
+  "dataDeNascimento": "24/02/2000",
+  "social": {
+    "email": "matheusrodrigofilho@outlook.com",
+    "numero": "+55 (12) 991403532",
+    "linkedin": "Matheus Filho",
+    "github": "MatheusRFilho"
+  },
+  "favoritos": {
+    "linguagemFavorita": "JavaScript",
+    "frameworkFavorito": "React"
+  }
+}
