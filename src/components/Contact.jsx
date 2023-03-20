@@ -9,13 +9,13 @@ import contact from '../../public/assets/contact.jpg';
 
 export const Contact = () => {
   return (
-    <div className="w-full lg:h-screen">
-      <div className="flex justify-center items-center " id="contact">
+    <div className="w-full px-10 lg:h-screen ">
+      <div className="flex  justify-center items-center " id="contact">
         <h3 className="text-center tracking-widest font-extrabold text-2xl pt-5 pb-3 m-4 mt-16 text-[#5651e5] border-b-4 border-[#5651e5]">
           Contato
         </h3>
       </div>
-      <div className="grid lg:grid-cols-5 gap-8">
+      <div className="grid  lg:grid-cols-5 gap-8">
         {/* left */}
         <div className="col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4">
           <div className="lg:p-4 h-full">
