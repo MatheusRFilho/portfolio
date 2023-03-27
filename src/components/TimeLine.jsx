@@ -90,15 +90,7 @@ export const TimeLine = () => {
                 No que eu trabalhei:{' '}
               </span>
               Atuei no desenvolvimento de soluções tanto para WEB como para
-              aplicativos, as principais atribuições foram:
-              <br /> - Levantamento de requisitos; <br />- Desenvolvimento de
-              códigos, seja em WEB ou Aplicativos; <br />- Integração de
-              funcionalidades; <br />- Aplicação de lógicas para resolução de
-              problemas.
-              <br />
-              As principais tecnologias utilizadas foram: <br />- Html;
-              <br /> - Css; <br />- NestJs; <br />- JavaScript; <br />- React;{' '}
-              <br />- ReactNative.
+              aplicativos.
             </p>
           </div>
           <div className="col-start-5 col-end-6 md:mx-auto relative mr-10">
@@ -122,7 +114,7 @@ export const TimeLine = () => {
           </div>
           <div className="bg-blue-500 col-start-6 col-end-10 p-4 rounded-xl my-4 mr-auto shadow-md">
             <h3 className="font-semibold text-lg mb-1 tracking-widest">
-              Desenvolvedor Front-end Junior
+              Desenvolvedor Front-end
             </h3>
 
             <p className="leading-tight text-justify mb-1">
@@ -131,78 +123,20 @@ export const TimeLine = () => {
             </p>
             <p className="leading-tight text-justify mb-1 tracking-widest">
               <span className=" font-bold tracking-widest">Duração: </span>Julho
-              de 2021 - Novembro de 2022
+              de 2021 - Momento
             </p>
             <p className="leading-tight text-justify mb-1 tracking-widest">
               <span className=" font-bold tracking-widest">
                 No que eu trabalhei:{' '}
               </span>
               Atuei no desenvolvimento de soluções tanto para WEB como para
-              micro serviçoes no back-end, as principais atribuições foram:{' '}
-              <br />- Detalhamento de escopo;
-              <br /> - Levantamento de requisitos; <br />- Desenvolvimento de
-              códigos, seja em WEB ou Back-end; <br />- Integração de
-              funcionalidades; <br />- Aplicação de lógicas para resolução de
-              problemas;
-              <br /> - Planejamento de micro serviços.
-              <br />
-              As principais tecnologias utilizadas foram: <br />- Flutter;
-              <br /> - Dart; <br />- NestJs; <br />- JavaScript. <br />
+              micro serviçoes no back-end.
             </p>
           </div>
         </div>
 
-        <div className="flex md:contents">
-          <div className="col-start-5 col-end-6 mr-10 md:mx-auto relative">
-            <div className="h-full w-6 flex items-center justify-center">
-              <div className="h-full w-1 bg-[#5651e5] pointer-events-none"></div>
-            </div>
-            <div className="w-10 h-10 absolute top-1/2 -mt-3 rounded-full bg-blue-500 shadow border-4 border-[#5651e5]  left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center ">
-              <GiUpgrade color="white" />
-            </div>
-          </div>
-          <div className="bg-blue-500 col-start-6 col-end-10 p-4 rounded-xl my-4 mr-auto shadow-md">
-            <h3 className="font-semibold text-lg mb-1 tracking-widest">
-              <span className=" font-bold tracking-widest">Promoção: </span>{' '}
-              Desenvolvedor Front-End
-            </h3>
 
-            <p className="leading-tight text-justify mb-1 tracking-widest">
-              <span className=" font-bold tracking-widest">Empresa: </span>
-              Devnology
-            </p>
-            <p className="leading-tight text-justify mb-1 tracking-widest">
-              <span className=" font-bold tracking-widest">Duração: </span>
-              Novembro de 2022 - Janeiro de 2023
-            </p>
-          </div>
-        </div>
-
-        <div className="flex md:contents">
-          <div className="col-start-5 col-end-6 mr-10 md:mx-auto relative">
-            <div className="h-full w-6 flex items-center justify-center">
-              <div className="h-full w-1 bg-[#5651e5] pointer-events-none"></div>
-            </div>
-            <div className="w-10 h-10 absolute top-1/2 -mt-3 rounded-full bg-blue-500 shadow border-4 border-[#5651e5]  left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center ">
-              <GiUpgrade color="white" />
-            </div>
-          </div>
-          <div className="bg-blue-500 col-start-6 col-end-10 p-4 rounded-xl my-4 mr-auto shadow-md">
-            <h3 className="font-semibold text-lg mb-1 tracking-widest">
-              <span className=" font-bold tracking-widest">Promoção: </span>{' '}
-              Tech-Lead Front-End
-            </h3>
-
-            <p className="leading-tight text-justify mb-1 tracking-widest">
-              <span className=" font-bold tracking-widest">Empresa: </span>
-              Devnology
-            </p>
-            <p className="leading-tight text-justify mb-1 tracking-widest">
-              <span className=" font-bold tracking-widest">Duração: </span>
-              Janeiro de 2023 - Momento
-            </p>
-          </div>
-        </div>
+        
       </div>
     </div>
   );
