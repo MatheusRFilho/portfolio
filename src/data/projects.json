@@ -1,0 +1,101 @@
+{
+  "categories": [
+    { "id": "all", "label": "Todos" },
+    { "id": "frontend", "label": "Front-end" },
+    { "id": "backend", "label": "Back-end" },
+    { "id": "fullstack", "label": "Full-stack" },
+    { "id": "mobile", "label": "Mobile" }
+  ],
+  "projects": [
+    {
+      "id": "teste-devnology",
+      "title": "Teste para entrar na Devnology",
+      "category": "fullstack",
+      "tech": ["react", "node", "typescript"],
+      "image": "/assets/compras.jpeg",
+      "linkGit": "https://github.com/MatheusRFilho/Teste-Devnology",
+      "linkLive": null
+    },
+    {
+      "id": "moveit",
+      "title": "MoveIt",
+      "category": "fullstack",
+      "tech": ["react", "typescript"],
+      "image": "/assets/moveit.png",
+      "linkGit": "https://github.com/MatheusRFilho/Nlw-4.0-React",
+      "linkLive": "https://moveit-steel-omega.vercel.app/"
+    },
+    {
+      "id": "ecoleta",
+      "title": "Ecoleta",
+      "category": "fullstack",
+      "tech": ["react-native", "react", "node", "typescript"],
+      "image": "/assets/ecoleta.png",
+      "linkGit": "https://github.com/MatheusRFilho/Nlw-Booster",
+      "linkLive": null
+    },
+    {
+      "id": "proffy",
+      "title": "Proffy",
+      "category": "fullstack",
+      "tech": ["react-native", "react", "node", "typescript"],
+      "image": "/assets/proffy.png",
+      "linkGit": "https://github.com/MatheusRFilho/NLW-2.0---Omnistack",
+      "linkLive": null
+    },
+    {
+      "id": "webcrawler",
+      "title": "WebCrawler",
+      "category": "backend",
+      "tech": ["node"],
+      "image": "/assets/webcrawler.png",
+      "linkGit": "https://github.com/MatheusRFilho/webcrawler",
+      "linkLive": null
+    },
+    {
+      "id": "nodemailer",
+      "title": "NodeMailer",
+      "category": "backend",
+      "tech": ["node", "typescript"],
+      "image": "/assets/nodemailer.png",
+      "linkGit": "https://github.com/MatheusRFilho/NodeMailer",
+      "linkLive": null
+    },
+    {
+      "id": "bethehero",
+      "title": "Be The Hero",
+      "category": "fullstack",
+      "tech": ["react", "node"],
+      "image": "/assets/bethehero.png",
+      "linkGit": "https://github.com/MatheusRFilho/Semana-OmniStack-11",
+      "linkLive": null
+    },
+    {
+      "id": "eburguer-frontend",
+      "title": "E-Burguer Front-End",
+      "category": "frontend",
+      "tech": ["react"],
+      "image": "/assets/eburguer.png",
+      "linkGit": "https://github.com/MatheusRFilho/E-Burguer",
+      "linkLive": null
+    },
+    {
+      "id": "eburguer-backend",
+      "title": "E-Burguer Back-End",
+      "category": "backend",
+      "tech": ["node"],
+      "image": "/assets/eburguer.png",
+      "linkGit": "https://github.com/MatheusRFilho/e-burguer-BackEnd",
+      "linkLive": null
+    },
+    {
+      "id": "zarpar",
+      "title": "Zarpar",
+      "category": "fullstack",
+      "tech": ["react"],
+      "image": "/assets/zarpar.png",
+      "linkGit": "https://github.com/MatheusRFilho/Zarpar-PI",
+      "linkLive": null
+    }
+  ]
+}

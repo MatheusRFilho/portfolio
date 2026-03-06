@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "type": "education",
+      "title": "Curso Técnico em Informática",
+      "institution": "CTMA - Colégio Técnico Municipal de Aparecida",
+      "duration": "Junho de 2017 - Dezembro de 2018",
+      "description": "Estudei o básico de programação e banco de dados.",
+      "en": {
+        "title": "Technical Course in Computer Science",
+        "institution": "CTMA - Municipal Technical College of Aparecida",
+        "duration": "June 2017 - December 2018",
+        "description": "Studied the basics of programming and databases."
+      }
+    },
+    {
+      "type": "education",
+      "title": "Análise e Desenvolvimento de Sistemas",
+      "institution": "FATEC-GTA - Faculdade de Tecnologia de Guaratinguetá",
+      "duration": "Julho de 2018 - Dezembro de 2021",
+      "description": "Matemática, raciocínio lógico, Bancos de Dados, sistemas web, programação distribuída, administração, contabilidade, economia, estatística e inglês.",
+      "en": {
+        "title": "Systems Analysis and Development",
+        "institution": "FATEC-GTA - Guaratinguetá Technology College",
+        "duration": "July 2018 - December 2021",
+        "description": "Mathematics, logical reasoning, Databases, web systems, distributed programming, administration, accounting, economics, statistics and English."
+      }
+    },
+    {
+      "type": "work",
+      "title": "Desenvolvedor de Sistemas (Estágio)",
+      "company": "The One IT",
+      "duration": "Julho de 2020 - Julho de 2021",
+      "location": "Guaratinguetá, SP · Remoto",
+      "description": "Desenvolvimento de aplicações frontend e mobile com React e React Native. Customização, manutenção e otimização de sites em WordPress. Apoio ao time no desenvolvimento, correção de bugs e implementação de novas funcionalidades.",
+      "en": {
+        "title": "Systems Developer (Internship)",
+        "company": "The One IT",
+        "duration": "July 2020 - July 2021",
+        "location": "Guaratinguetá, SP · Remote",
+        "description": "Development of frontend and mobile applications with React and React Native. Customization, maintenance and optimization of WordPress sites. Support to the team in development, bug fixes and implementation of new features."
+      }
+    },
+    {
+      "type": "work",
+      "title": "Desenvolvedor Full Stack",
+      "company": "Devnology",
+      "duration": "Julho de 2021 - Setembro de 2023",
+      "location": "Remoto",
+      "description": "Desenvolvimento de aplicativos móveis com Flutter. Criação de componentes frontend com React, utilizando Sass e Storybook para padronização visual. Participação ativa na evolução de interfaces, correções e manutenção de aplicações web.",
+      "en": {
+        "title": "Full Stack Developer",
+        "company": "Devnology",
+        "duration": "July 2021 - September 2023",
+        "location": "Remote",
+        "description": "Development of mobile applications with Flutter. Creation of frontend components with React, using Sass and Storybook for visual standardization. Active participation in interface evolution, fixes and maintenance of web applications."
+      }
+    },
+    {
+      "type": "work",
+      "title": "Desenvolvedor Full Stack",
+      "company": "The One IT",
+      "duration": "Agosto de 2023 - Agosto de 2024",
+      "location": "Guaratinguetá, SP · Remoto",
+      "description": "Desenvolvimento de aplicações web e mobile com React, React Native, Node.js e NestJS. Atuação em frontend e backend, garantindo integração eficiente. Contribuição em melhorias de UX, performance e organização de código.",
+      "en": {
+        "title": "Full Stack Developer",
+        "company": "The One IT",
+        "duration": "August 2023 - August 2024",
+        "location": "Guaratinguetá, SP · Remote",
+        "description": "Development of web and mobile applications with React, React Native, Node.js and NestJS. Work in frontend and backend, ensuring efficient integration. Contribution to UX improvements, performance and code organization."
+      }
+    },
+    {
+      "type": "work",
+      "title": "Desenvolvedor Full Stack",
+      "company": "MyCareforce",
+      "duration": "Setembro de 2024 - Julho de 2025",
+      "location": "Brasil · Remoto",
+      "description": "Desenvolvimento de plataformas web em React com foco em escalabilidade e reutilização de componentes. Backends em Node.js com integrações de APIs. Desenvolvimento de aplicativos mobile com React Native. Colaboração com designers, POs e desenvolvedores em ambiente remoto.",
+      "en": {
+        "title": "Full Stack Developer",
+        "company": "MyCareforce",
+        "duration": "September 2024 - July 2025",
+        "location": "Brazil · Remote",
+        "description": "Development of web platforms in React with focus on scalability and component reuse. Node.js backends with API integrations. Mobile app development with React Native. Collaboration with designers, POs and developers in a remote environment."
+      }
+    },
+    {
+      "type": "work",
+      "title": "Desenvolvedor Full Stack",
+      "company": "Grupo FCamara",
+      "duration": "Julho de 2025 - Janeiro de 2026",
+      "location": "Remoto",
+      "description": "Desenvolvimento de aplicações web com Next.js, definição de arquitetura de componentes e otimização de performance. Backend com Node.js e NestJS, desenvolvendo APIs e serviços para fluxos críticos. Scripts para importação e processamento de planilhas. Integração via CMS e SSG. Serviços de mensageria para comunicação assíncrona. Colaboração com infraestrutura em GCP, CI/CD com Jenkins e Rancher.",
+      "en": {
+        "title": "Full Stack Developer",
+        "company": "Grupo FCamara",
+        "duration": "July 2025 - January 2026",
+        "location": "Remote",
+        "description": "Development of web applications with Next.js, component architecture definition and performance optimization. Backend with Node.js and NestJS, developing APIs and services for critical flows. Scripts for spreadsheet import and processing. Integration via CMS and SSG. Messaging services for asynchronous communication. Collaboration with GCP infrastructure, CI/CD with Jenkins and Rancher."
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "nome": "Matheus Filho",
+  "dataDeNascimento": "24/02/2000",
+  "titulo": "Desenvolvedor Full Stack",
+  "sobre": "Atuo em todo o ciclo de desenvolvimento, com forte expertise em frontend (React, React Native, Next.js) e sólida experiência em backend utilizando Node.js e NestJS. Tenho participação em produtos em produção, com foco em performance, manutenibilidade e integração eficiente entre sistemas.\n\nAo longo da minha carreira, entreguei soluções end-to-end que substituíram fluxos manuais, escalaram plataformas existentes e sustentaram funcionalidades críticas para o negócio. Gosto de colaborar com times multidisciplinares e contribuir para decisões técnicas que equilibram as necessidades do produto com código limpo e sustentável.\n\nMinha experiência inclui: desenvolvimento de aplicações web e mobile do conceito à produção; APIs REST, integrações de sistemas e comunicação assíncrona; otimização de performance, refatoração e arquitetura escalável; ambientes ágeis, pipelines de CI/CD e colaboração em times remotos.",
+  "stack": ["React", "React Native", "Next.js", "Node.js", "NestJS", "TypeScript", "Docker", "Git"],
+  "idiomas": ["Português (Nativo)", "Inglês (Nível profissional)"],
+  "social": {
+    "email": "matheusrodrigofilho@outlook.com",
+    "numero": "+55 (12) 991403532",
+    "linkedin": "https://www.linkedin.com/in/matheus-filho-90015917a/",
+    "github": "https://github.com/MatheusRFilho",
+    "whatsapp": "https://api.whatsapp.com/send?phone=5512991403532&text=Digite%20aqui%20o%20assunto"
+  },
+  "favoritos": {
+    "linguagemFavorita": "JavaScript",
+    "frameworkFavorito": "React"
+  }
+}

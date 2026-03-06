@@ -1,0 +1,166 @@
+{
+  "pt": {
+    "nav": {
+      "home": "Inicio",
+      "about": "Sobre Mim",
+      "skills": "Habilidades",
+      "projects": "Projetos",
+      "contact": "Contatos"
+    },
+    "main": {
+      "welcome": "Venha me conhecer!",
+      "hello": "Olá, Eu sou o",
+      "title": "Desenvolvedor Full Stack",
+      "description": "Mais de 7 anos de experiência na construção de aplicações web e mobile escaláveis. Atuo em todo o ciclo de desenvolvimento, com forte expertise em frontend (React, React Native, Next.js) e sólida experiência em backend com Node.js e NestJS."
+    },
+    "sections": {
+      "about": "Sobre Mim",
+      "career": "Minha Carreira",
+      "skills": "Habilidades",
+      "projects": "Projetos",
+      "contact": "Contato"
+    },
+    "contact": {
+      "title": "Entre em contato",
+      "subtitle": "Preferir falar diretamente? Use um dos canais abaixo.",
+      "email": "Email",
+      "phone": "Telefone",
+      "whatsapp": "WhatsApp",
+      "copy": "Copiar",
+      "copied": "Copiado!",
+      "connect": "Conecte-se comigo!",
+      "backToTop": "Voltar ao topo",
+      "openChat": "Abrir conversa"
+    },
+    "projects": {
+      "all": "Todos",
+      "frontend": "Front-end",
+      "backend": "Back-end",
+      "fullstack": "Full-stack",
+      "mobile": "Mobile",
+      "teste-devnology": "Teste para entrar na Devnology"
+    },
+    "skills": {
+      "languages": "Linguagens",
+      "frontend": "Front-end",
+      "backend": "Back-end",
+      "tools": "Ferramentas"
+    },
+    "navbar": {
+      "tagline": "Sempre em busca de novos conhecimentos.",
+      "findMe": "Me encontre aqui!"
+    },
+    "timeline": {
+      "company": "Empresa: ",
+      "institution": "Instituição: ",
+      "duration": "Duração: ",
+      "location": "Local: ",
+      "workedOn": "No que eu trabalhei: ",
+      "studied": "O que foi estudado: "
+    },
+    "about": {
+      "stack": "Stack tecnológica:",
+      "languages": "Idiomas:",
+      "sobre": "Atuo em todo o ciclo de desenvolvimento, com forte expertise em frontend (React, React Native, Next.js) e sólida experiência em backend utilizando Node.js e NestJS. Tenho participação em produtos em produção, com foco em performance, manutenibilidade e integração eficiente entre sistemas.\n\nAo longo da minha carreira, entreguei soluções end-to-end que substituíram fluxos manuais, escalaram plataformas existentes e sustentaram funcionalidades críticas para o negócio. Gosto de colaborar com times multidisciplinares e contribuir para decisões técnicas que equilibram as necessidades do produto com código limpo e sustentável.\n\nMinha experiência inclui: desenvolvimento de aplicações web e mobile do conceito à produção; APIs REST, integrações de sistemas e comunicação assíncrona; otimização de performance, refatoração e arquitetura escalável; ambientes ágeis, pipelines de CI/CD e colaboração em times remotos.",
+      "idiomas": "Português (Nativo) • Inglês (Nível profissional)"
+    },
+    "aria": {
+      "openMenu": "Abrir menu",
+      "closeMenu": "Fechar menu",
+      "switchToEn": "Mudar para inglês",
+      "switchToPt": "Mudar para português",
+      "darkTheme": "Ativar tema escuro",
+      "lightTheme": "Ativar tema claro"
+    },
+    "alt": {
+      "profilePhoto": "Foto de perfil de Matheus Filho",
+      "codeImage": "Código de programação"
+    },
+    "projectItem": {
+      "viewGitHub": "Ver código no GitHub",
+      "openProject": "Abrir projeto"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "main": {
+      "welcome": "Come meet me!",
+      "hello": "Hi, I'm",
+      "title": "Full Stack Developer",
+      "description": "Over 7 years of experience building scalable web and mobile applications. I work across the entire development cycle, with strong expertise in frontend (React, React Native, Next.js) and solid backend experience with Node.js and NestJS."
+    },
+    "sections": {
+      "about": "About Me",
+      "career": "My Career",
+      "skills": "Skills",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Get in touch",
+      "subtitle": "Prefer to talk directly? Use one of the channels below.",
+      "email": "Email",
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "connect": "Connect with me!",
+      "backToTop": "Back to top",
+      "openChat": "Open chat"
+    },
+    "projects": {
+      "all": "All",
+      "frontend": "Front-end",
+      "backend": "Back-end",
+      "fullstack": "Full-stack",
+      "mobile": "Mobile",
+      "teste-devnology": "Test to join Devnology"
+    },
+    "skills": {
+      "languages": "Languages",
+      "frontend": "Front-end",
+      "backend": "Back-end",
+      "tools": "Tools"
+    },
+    "navbar": {
+      "tagline": "Always seeking new knowledge.",
+      "findMe": "Find me here!"
+    },
+    "timeline": {
+      "company": "Company: ",
+      "institution": "Institution: ",
+      "duration": "Duration: ",
+      "location": "Location: ",
+      "workedOn": "What I worked on: ",
+      "studied": "What was studied: "
+    },
+    "about": {
+      "stack": "Tech stack:",
+      "languages": "Languages:",
+      "sobre": "I work across the entire development cycle, with strong expertise in frontend (React, React Native, Next.js) and solid backend experience using Node.js and NestJS. I have participated in production products, focusing on performance, maintainability and efficient integration between systems.\n\nThroughout my career, I have delivered end-to-end solutions that replaced manual flows, scaled existing platforms and sustained critical business functionalities. I enjoy collaborating with multidisciplinary teams and contributing to technical decisions that balance product needs with clean and sustainable code.\n\nMy experience includes: development of web and mobile applications from concept to production; REST APIs, system integrations and asynchronous communication; performance optimization, refactoring and scalable architecture; agile environments, CI/CD pipelines and collaboration in remote teams.",
+      "idiomas": "Portuguese (Native) • English (Professional level)"
+    },
+    "aria": {
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu",
+      "switchToEn": "Switch to English",
+      "switchToPt": "Switch to Portuguese",
+      "darkTheme": "Enable dark theme",
+      "lightTheme": "Enable light theme"
+    },
+    "alt": {
+      "profilePhoto": "Matheus Filho profile photo",
+      "codeImage": "Programming code"
+    },
+    "projectItem": {
+      "viewGitHub": "View code on GitHub",
+      "openProject": "Open project"
+    }
+  }
+}
